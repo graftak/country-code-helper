@@ -2,8 +2,6 @@
 
 namespace Graftak;
 
-use CountryCodeException;
-
 class CountryCodeHelper
 {
     /**
