@@ -15,7 +15,7 @@ $ composer require graftak/country-code-helper
 Include these two classes:
 ```php
 use Graftak\CountryCodeHelper;
-use Graftak\CountryCodes;
+use Graftak\CountryCodeHelper\CountryCodes;
 ```
 
 Then, in your code, just use the static method `map`:
