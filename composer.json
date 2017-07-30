@@ -1,7 +1,8 @@
 {
     "name": "graftak/country-code-helper",
-    "description": "Easy way to map between ISO Alpha-2, Alpha-3, and Numeric Country Codes.",
-    "keywords": ["country", "codes", "PHP", "mapping", "iso", "convert", "numeric", "list", "iso_alpha_2", "iso_alpha_3", "iso_numerical_un_m49"],
+    "description": "Simple package to assist you in converting/mapping ISO 3166-1 Alpha-2, Alpha-3, and Numeric Country Codes.",
+    "keywords": ["3166-1", "country", "codes", "iso", "code", "mapping", "convert", "names", "list",
+        "alpha-2", "alpha-3", "numeric", "un_m49", "English", "French", "3166", "international"],
     "homepage": "https://github.com/graftak/country-code-helper",
     "type": "library",
     "require": {
@@ -10,7 +11,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Bert van der Genugten"
+            "name": "Bert van der Genugten",
+            "email": "bertvandergenugten@gmail.com"
         }
     ],
     "autoload": {
